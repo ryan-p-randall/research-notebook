@@ -1,0 +1,44 @@
+# Site wide configuration
+
+title: Ryan P. Randall ∴ Research Notebook
+locale: en_US
+url: # http://ryan-p-randall.github.io/research-notebook
+baseurl: /
+timezone: America/Boise
+lifespan: 2015-2016
+owner:
+  name: Ryan P. Randall
+
+# Jekyll configuration
+
+permalink: /:year/:title/
+markdown: kramdown
+syntax_highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+  - jemoji
+  - jekyll/scholar
+  - jekyll-gist
+  - rouge
+  - jekyll-paginate
+
+kramdown:
+  auto_ids: true
+  input: GFM
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+     default_lang: html
+
+description:      "Documenting lines of flight. Amplifying thoughts encountered…"
+
+
+paginate:         5
+
+github:
+  repo:           https://github.com/ryan-p-randall/research-notebook
