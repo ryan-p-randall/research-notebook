@@ -2,26 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">Ryan P. Randall ∴ Research Notebook</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="/feed.xml" />
-<link rel="alternate" type="text/html" href="" />
-<updated>2016-04-30T14:06:56-06:00</updated>
-<id>/</id>
+<link rel="self" type="application/atom+xml" href="http://ryan-p-randall.github.io/research-notebook/feed.xml" />
+<link rel="alternate" type="text/html" href="http://ryan-p-randall.github.io/research-notebook" />
+<updated>2016-04-30T14:52:53-06:00</updated>
+<id>http://ryan-p-randall.github.io/research-notebook/</id>
 <author>
   <name>Ryan P. Randall</name>
-  <uri>/</uri>
+  <uri>http://ryan-p-randall.github.io/research-notebook/</uri>
   
 </author>
 
 
 <entry>
   <title type="html"><![CDATA[Introduction]]></title>
-  <link rel="alternate" type="text/html" href="/2016/introduction/" />
-  <id>/2016/introduction</id>
+  <link rel="alternate" type="text/html" href="http://ryan-p-randall.github.io/research-notebook/2016/introduction/" />
+  <id>http://ryan-p-randall.github.io/research-notebook/2016/introduction</id>
   <published>2016-04-30T13:46:21-06:00</published>
   <updated>2016-04-30T13:46:21-06:00</updated>
   <author>
     <name>Ryan P. Randall</name>
-    <uri></uri>
+    <uri>http://ryan-p-randall.github.io/research-notebook</uri>
     
   </author>
   <content type="html">
@@ -29,7 +29,7 @@
 
 &lt;p&gt;As librarians—and more fundamentally, as thinkers—it would probably behoove us to show the process of thoughts as they grow and evolve. So here’s a humble attempt to do that more openly. I hope you’ll consider doing something similar.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/2016/introduction/&quot;&gt;Introduction&lt;/a&gt; was originally published by Ryan P. Randall at &lt;a href=&quot;&quot;&gt;Ryan P. Randall ∴ Research Notebook&lt;/a&gt; on April 30, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://ryan-p-randall.github.io/research-notebook/2016/introduction/&quot;&gt;Introduction&lt;/a&gt; was originally published by Ryan P. Randall at &lt;a href=&quot;http://ryan-p-randall.github.io/research-notebook&quot;&gt;Ryan P. Randall ∴ Research Notebook&lt;/a&gt; on April 30, 2016.&lt;/p&gt;
   </content>
 </entry>
 

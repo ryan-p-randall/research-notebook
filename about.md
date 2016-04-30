@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about/
-title: 
+title: "About this Notebook"
 tagline: Ryan P. Randall
 tags: [about]
 modified: 2015-03-21
@@ -11,5 +11,5 @@ image:
   thumb: pocket-notebooks-crop.jpg
 ---
 
-{% include _about-me.html %}
+{% include _about-notebook.html %}
 <!-- markdownfix_ -->  

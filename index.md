@@ -8,5 +8,5 @@ image:
    thumb: pocket-notebooks-crop.jpg
 ---
 
-{% include _about-me.html %}
+{% include _about-notebook.html %}
 <!-- markdownfix_ -->  
