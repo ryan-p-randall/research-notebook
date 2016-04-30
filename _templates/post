@@ -1,0 +1,16 @@
+---
+layout: {{ layout }}
+title: {{ title }}
+modified:
+categories: {{ dir }}
+excerpt:
+tags: [tag,]
+image:
+   feature: pocket-notebooks.jpg
+   thumb: pocket-notebooks-crop.jpg
+published: false
+---  
+
+_add link to Worldcat or Zotero, Ryan_
+
+_add an excerpt before posting_

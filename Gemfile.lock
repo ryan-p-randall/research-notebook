@@ -39,7 +39,6 @@ GEM
       safe_yaml (~> 1.0)
     jekyll-gist (1.4.0)
       octokit (~> 4.2)
-    jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.4.0)
       sass (~> 3.4)
     jekyll-scholar (5.6.0)
@@ -71,7 +70,7 @@ GEM
       mini_portile2 (~> 2.0.0.rc2)
     octokit (4.2.0)
       sawyer (~> 0.6.0, >= 0.5.3)
-    octopress (3.0.12.pre.1)
+    octopress (3.0.11)
       jekyll (>= 2.0)
       mercenary (~> 0.3.2)
       octopress-deploy
@@ -107,7 +106,6 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 3.0)
   jekyll-gist
-  jekyll-paginate
   jekyll-scholar
   jekyll-sitemap
   jemoji

@@ -2,12 +2,9 @@
 
 title: Ryan P. Randall ∴ Research Notebook
 locale: en_US
-url: # http://ryan-p-randall.github.io/research-notebook
-baseurl: /
+url: http://ryan-p-randall.github.io/research-notebook
 timezone: America/Boise
-lifespan: 2015-2016
-owner:
-  name: Ryan P. Randall
+lifespan: 2016
 
 # Jekyll configuration
 
@@ -23,7 +20,6 @@ gems:
   - jekyll/scholar
   - jekyll-gist
   - rouge
-  - jekyll-paginate
 
 kramdown:
   auto_ids: true
@@ -35,10 +31,52 @@ kramdown:
   syntax_highlighter_opts:
      default_lang: html
 
-description:      "Documenting lines of flight. Amplifying thoughts encountered…"
+# Octopress
 
+# Default extensions
+post_ext: md
+page_ext: md
 
-paginate:         5
+# Found in _templates/
+post_layout: post
+page_layout: page
 
-github:
-  repo:           https://github.com/ryan-p-randall/research-notebook
+# Format titles with titlecase?
+titlecase: true
+
+# Site owner
+owner:
+  name: Ryan P. Randall
+  avatar: bio-photo.jpg
+  bio: "Instruction & Outreach Librarian at the College of Western Idaho ∴ Literary, media & cultural studies ∴ Web Editor at In the Library with the Lead Pipe ∴ Sous les pavés, la plage ∴ We are, as always, stubborn, stoked, and petrified - GY!BE"
+  email:
+  disqus-shortname:
+  twitter: foureyedsoul
+  facebook: #username
+  google:
+    plus: #username
+    analytics: UA-49717180-1
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: ryan-p-randall
+  stackoverflow: #http://stackoverflow.com/users/123456/username
+  linkedin: #username
+  instagram: foureyedsoul
+  lastfm: foureyedsoul
+  tumblr: foureyedsoul
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  goodreads: 2077359-ryan
+  soundcloud: foureyedsoul
+  zotero: ryanprandall
+  youtube: #username
+  weibo: #username
+  flickr: #username
+  codepen: #username
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "LICENSE", "README.md"]

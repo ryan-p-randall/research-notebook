@@ -6,4 +6,4 @@ gem 'octopress', '~> 3.0.0.rc.12'
 gem 'jemoji'
 gem 'jekyll-scholar'
 gem "jekyll-gist"
-gem "jekyll-paginate"
+

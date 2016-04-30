@@ -1,0 +1,10 @@
+---
+layout: post-index
+title: {{ title }}
+permalink:
+modified:
+excerpt:
+image:
+   feature: pocket-notebooks.jpg
+   thumb: pocket-notebooks-crop.jpg
+---

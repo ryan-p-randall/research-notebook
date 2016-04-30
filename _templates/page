@@ -1,0 +1,11 @@
+---
+layout: {{ layout }}
+title: {{ title }}
+date: {{ date }}
+modified:
+excerpt:
+tags: []
+image:
+   feature: pocket-notebooks.jpg
+   thumb: pocket-notebooks-crop.jpg
+---

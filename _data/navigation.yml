@@ -1,0 +1,13 @@
+# Site navigation links
+
+- title: Research Notebook
+  url: /posts/
+
+- title: Info Fluxus Blog
+  url: http://www.ryanpatrickrandall.com
+
+- title: About
+  url: /about/
+
+- title: Colophon
+  url: /colophon/ 
