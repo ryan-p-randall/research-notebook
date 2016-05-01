@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about/
-title: "About this Notebook"
+title: 
 tagline: Ryan P. Randall
 tags: [about]
 modified: 2015-03-21
