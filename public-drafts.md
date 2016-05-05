@@ -11,4 +11,8 @@ image:
    thumb: pocket-notebooks-crop.jpg
 ---
 
-If I get up the courage to write drafts of my fledgling ideas in public, I'll link to them from here.
+If I get up the courage to write drafts of my fledgling ideas in public, I'll link to them from here.  
+
+<!--  
+[CAPAL16]({{site:url}}/capal16)   
+-->  
