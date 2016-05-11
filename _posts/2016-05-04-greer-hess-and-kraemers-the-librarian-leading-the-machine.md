@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Greer, Hess, and Kraemer (2016) &ldquo;The Librarian Leading the Machine: a Reassessment of Library Instruction Methods&rdquo;"
+title: "Greer, Hess, and Kraemer. &ldquo;The Librarian Leading the Machine: a Reassessment of Library Instruction Methods.&rdquo; 2016."
 modified:
 categories: 
 excerpt: An insightful article showing that, at their institution, well-planned infolit instruction modules make for basically equivalent student success rates.
-tags: [information literacy, assessment]
+tags: [information literacy, assessment, open access content]
 image:
    feature: pocket-notebooks.jpg
    thumb: pocket-notebooks-crop.jpg
 published: true
 date: 2016-05-04T00:10:25-06:00
 ---
-Link:  
+Link (Open Access) :  
 [WorldCat](http://www.worldcat.org/oclc/6032308716) / [College & Research Libraries](
 http://crl.acrl.org/content/77/3/286)
 
