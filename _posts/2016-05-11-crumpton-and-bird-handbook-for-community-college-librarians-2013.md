@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Crumpton and Bird Handbook for Community College Librarians 2013"
+title: "Crumpton and Bird. Handbook for Community College Librarians. 2013"
 modified:
 categories: 
 excerpt: Notes on the two chapters on information literacy and instructional design.  
