@@ -4,7 +4,7 @@ title: "Crumpton and Bird. <i>Handbook for Community College Librarians.</i> 201
 modified:
 categories: 
 excerpt: Notes on the two chapters on information literacy and instructional design.  
-tags: [tag,]
+tags: [information literacy, instructional design, community college]
 image:
    feature: pocket-notebooks.jpg
    thumb: pocket-notebooks-crop.jpg
