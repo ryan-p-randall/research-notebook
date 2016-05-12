@@ -33,7 +33,7 @@
 </div>
 
 <div id="index">
-  <h1>{{ page.title }}</h1>
+  <h1>{{ page.title | markdownify }}</h1>
    <span class="entry-tags"><a href="/tags/" class="btn">Posts by Tag</a></span><br />  
   {% for post in site.posts %}  
   {% unless post.next %}  
@@ -47,9 +47,9 @@
     {% endunless %}
     <article>
       {% if post.link %}
-        <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></h2>
+        <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title | markdownify }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></h2>
       {% else %}
-        <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
+        <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title | markdownify }}</a></h2>
         {{ post.excerpt | strip_html | markdownify | truncate: 220 }}
       {% endif %}
     </article>
