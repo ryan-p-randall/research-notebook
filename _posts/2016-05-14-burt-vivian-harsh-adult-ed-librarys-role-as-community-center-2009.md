@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Burt, Laura. &lquo;Vivian Harsh Adult Ed Library's Role as Community Center.&rquo; 2009."
+title: "Burt, Laura. &ldquo;Vivian Harsh Adult Ed Library's Role as Community Center.&rdquo; 2009."
 modified:
 categories: 
 excerpt: Excellent article on a library director who linked her library's outreach, programming, and collections to the force of the Chicago Black Renaissance and beyond. Important and undertold critical librar* history!
