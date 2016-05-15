@@ -102,9 +102,3 @@ In late 1940s and early 1950s Harsh had increasing frustration with outreach—s
 "Community-centered library outreach movement is not attributed to her [Vivian Harsh] in any way (250-1). Yet clearly Burt's article shows that Harsh did lots of programming centered on her community, involving them in it profoundly.  
 
 Burt sees both conditions of possibility (including contemporaneous Chicago Black Renaissance and "the fact that the Hall Library was a part of a large northern urban public library system that supported her or benignly ignored her at other times") and Harsh's own gifts and assessment of community needs as reasons why Harsh succeeded (251).  
-
-
-  
-
- 
-_add an excerpt before posting_
