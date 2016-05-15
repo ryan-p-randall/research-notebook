@@ -9,7 +9,7 @@ image:
    feature: pocket-notebooks.jpg
    thumb: pocket-notebooks-crop.jpg
 published: true
-date: 2016-05-15T22:23:38-06:00
+date: 2016-05-14T22:23:38-06:00
 ---
 Burt, Laura. "Vivian Harsh, Adult Education, and the Library's Role as Community Center." _Libraries & the Cultural Record_ 44.2 (2009).   
 
