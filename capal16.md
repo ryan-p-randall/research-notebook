@@ -34,6 +34,14 @@ Outline (~20 min total):
 That's an awful lot, dude. So maybe decide which parts would be harder to follow aloud & therefore better held off into the proceedings paper? Focus on Giroux & Wiegand (closer to LIS / CAPAL) and bring in Radway?   
 
 
+Keywords I'll circle around:  
 
-  
+- democracy  
+- agency  
+- identity  
+- libraries  
+- fiction  
+
+Maybe I need to use Rancière in this one, to talk about how democracy involves conflict over identities & who "counts" in a decision.  
+
 
