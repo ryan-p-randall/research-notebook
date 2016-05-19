@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Giroux &ldquo;Schooling and the Culture of Positivism: Notes on the Death of History.&rdquo; 1979/2014."
+title: "Giroux, Henry. &ldquo;Schooling and the Culture of Positivism: Notes on the Death of History.&rdquo; 1979/2014."
 modified:
 categories: 
 excerpt: A culture of positivism, distinguishing between objectivity and objectivism, hegemony, false neutrality, values—this article has all sorts of relevance for librarianship!
