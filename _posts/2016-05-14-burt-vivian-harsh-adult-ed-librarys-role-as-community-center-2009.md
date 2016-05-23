@@ -29,7 +29,7 @@ She made:
 
 She made the Hall a "vital community center."  
 
-> The library regularly sponsored debates and lectures on topics important to her patrons, such as African American politics and history. Patrons were encouraged and enabled to debate, question, and process as a community issues such as democracy, World War II, and global politics. Her work to create a {>>234/235<<} safe space for community intellectual inquiry was vital, as debate over questions such as the rights of African Americans at that time could be regarded as dangerous, especially for her African American patrons. Harsh helped preserve and teach the cultural history of African Americans and Africans, vital to the identity of her neighborhood, and encouraged the development of a sense of community and trust in the library as an intellectual center. Her work left a lasting impact not only on her collection but also on her patrons. (234-5)  
+> The library regularly sponsored debates and lectures on topics important to her patrons, such as African American politics and history. Patrons were encouraged and enabled to debate, question, and process as a community issues such as democracy, World War II, and global politics. Her work to create a {==234/235==} safe space for community intellectual inquiry was vital, as debate over questions such as the rights of African Americans at that time could be regarded as dangerous, especially for her African American patrons. Harsh helped preserve and teach the cultural history of African Americans and Africans, vital to the identity of her neighborhood, and encouraged the development of a sense of community and trust in the library as an intellectual center. Her work left a lasting impact not only on her collection but also on her patrons. (234-5)  
 
 Emphasis on _community_ center:  
 
@@ -41,7 +41,7 @@ Really, really, really like this nod to the conditions of possibility, but also 
 
 > Harsh adapted her visions in different ways through the 1930s, 1940s, and 1950s. Her work and her approach to libraries' role in the community significantly influenced the development of community librarianship as well as African American education and cultural studies. (235)   
 
-Burt says that two major themes of Harsh's career are (1) insistence for her (African American) patrons to learn African American history (often not taught in schools at the time {>>to me, often _still_ not taught adequately<<}) and (2) belief in education as way of patrons improving their lives. (236)  
+Burt says that two major themes of Harsh's career are (1) insistence for her (African American) patrons to learn African American history (often not taught in schools at the time {==to me, often _still_ not taught adequately==}) and (2) belief in education as way of patrons improving their lives. (236)  
 
 Hmmm. Seems like the second would clearly link up with Progressive, particularly class-based "improvement" narratives, with education as an engine for improvement (not that this link is wrong, clearly, but I also wonder whether/how labor was acknowledged). How different was the focus on history to common Progressive narratives, which might have been more future-focused?   
 
@@ -79,7 +79,7 @@ At the time, LIS generally focused on adult education as a solitary, individuate
 
 I wonder why Jennings focused so heavily on individuated patrons. What role did programming play in this vision of libraries from ALA? How were communities envisioned?   
 
-Burt characterizes Jennings' view as "top-down" vs the discussions sessions Harsh promoted that seem to build from the knowledge already present in the community {>>me: if not necessarily in each individual patron<<}. (243-4) Although doesn't use the Freireian terms, seems to cast Jennings as banking model, whereas Harsh seems much closer to liberation pedagogy model. Not sure if it's quite problem-posing model, though. Would have to know how the discussions were conducted, I imagine.  
+Burt characterizes Jennings' view as "top-down" vs the discussions sessions Harsh promoted that seem to build from the knowledge already present in the community {==me: if not necessarily in each individual patron==}. (243-4) Although doesn't use the Freireian terms, seems to cast Jennings as banking model, whereas Harsh seems much closer to liberation pedagogy model. Not sure if it's quite problem-posing model, though. Would have to know how the discussions were conducted, I imagine.  
 
 Burt points out that Harsh's forums presaged Alvin Johnson's calls for lectures, forums, and reading clubs in _The Public Library: A People's University_ by five years. (244)   
 

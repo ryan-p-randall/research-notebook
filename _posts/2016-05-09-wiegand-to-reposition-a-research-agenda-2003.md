@@ -24,7 +24,7 @@ Therefore, Wiegand invites American Studies scholars to study American libraries
 
 Wiegand says that the LIS research community for the last 150 years has:  
 
-> narrowly construed the words "information," "learning," and "education" by constructing definitions based largely on rules set down int he seventeenth century. [….] Over time the LIS community came to regard as most important the kinds of information related to work, or help people become informed citizens, intelligent consumers, and educated people. And from the seventeenth century on these kinds of information were often labeled "useful knowledge." (371)   
+> narrowly construed the words "information," "learning," and "education" by constructing definitions based largely on rules set down in the seventeenth century. [….] Over time the LIS community came to regard as most important the kinds of information related to work, or help people become informed citizens, intelligent consumers, and educated people. And from the seventeenth century on these kinds of information were often labeled "useful knowledge." (371)   
 
 (Benjamin Franklin's first order of books for Philadelphia contained zero novels, mostly reference, histories, works of science, etc.)  
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "CAPAL16 draft"
+title: "CAPAL16 draft &ldquo;Productive Interpretations: Encouraging Patron Agency through Cultural Criticism&rdquo;"
 date: 2016-05-03T21:24:35-06:00
 modified:
 excerpt:
@@ -10,6 +10,8 @@ image:
    feature: pocket-notebooks.jpg
    thumb: pocket-notebooks-crop.jpg
 ---
+
+<!-- 
 
 Title & Abstract:  
 
@@ -44,4 +46,26 @@ Keywords I'll circle around:
 
 Maybe I need to use Rancière in this one, to talk about how democracy involves conflict over identities & who "counts" in a decision.  
 
+-->   
 
+## Intro  
+
+{==slide 1: name, title, affiliation?==}
+
+Today I'll be circling around the ideas of democracy, agency, and identities—in particular, how these intersect with library discourse around works of fiction, not just the non-fiction resources that we normally tout as our contributions to democracy and patron agency. It'll be a somewhat expanded definition of agency—one that acknowledges how our individual selves are embedded within larger structures of power. 
+
+The article that profoundly helped frame the problem for me is Wayne Wiegand's 2003 "To Reposition a Research Agenda: What American Studies can Teach the LIS Community about the Library in the Life of the User." As the title implies, his article suggests that librarian and information studies too often limits its object of study to user behavior in the life of the library, when it might be more productive to instead start with the user's larger frame of reference.   
+
+{++ Add section, with possible quote slide, of bit about next block quote ++}
+
+> But failure to include analysis of "library as place" or "reading" questions in its research agenda or its educational curricula prevents the LIS community from adequately understanding the social and cultural preconditions that frame the library's present. An inability to see these deficiencies can be traced to a flawed perspective occasioned by generations of professional library practice where the focus of librarianship (and especially its research focus) has been professionally self-centered and focused by constrained definitions of "information," "learning," and "education." These narrowed perspectives have inevitably led the LIS community to think primarily about the user in the life of the library. (372)   
+
+Thankfully, as I was trying to figure out ways to make this somewhat theoretical and abstract set of concerns more concrete, I came across a lovely article detailing how Vivian Harsh, the director of a Chicago library from the 1930s to 1950s, promoted agency in part by hosting a series of patron-led discussions.  
+
+In Laura Burt's 2009 article "Vivian Harsh, Adult Education, and the Library's Role as Community Center," {==slide 2: Burt 2009 citation==} she explains how Harsh used her library to promote agency among her the predominately African American community of the Bronzeville neighborhood of Chicago. Her years as director began around the time of the Chicago Black Renaissance and continued through much of the Northern Migration years of the 1950s.   
+       
+{++Jump a bunch++}  
+
+Burt's article describes the cultural work done at the Bronzeville library, but doesn't present examples of its content in detail. Of course, what worked in that context would not work in every context. So instead of suggesting that every library mimic the interventions that succeeded under those historical conditions of possibility, let's look at guiding principles that might be able to travel across contexts. Librarians like Maria Accardi, Andrea Baer, James Elmborg, and Barbara Fister have written at length about how the library is a space of learning and pedagogy. Many of these writers invoke critical pedagogy like that developed by Paulo Freire or bell hooks, which is often referred to as "libratory" or "problem-posing" pedagogy.   
+
+A fundamental practice of this style of teaching is that instead of trying to push the truth out at students, a "banking model" in which "learning" mostly consists of amassing these unexamined nuggets of knowledge {==Slide: cartoon 1970s Smaug with jewels?==}, teachers can more productively work with students to address problems together. This works for certain types of content more than for others, of course—if I were to stand up here and talk about highly technical computer programs that require a specific sequence of computer commands, this problem-posing approach would likely miss the mark. But for learners engaging subjects like personal or community identity, ethic studies, issues of social, juridical, or economic oppression, etc.—all of which even young students are likely to have personal experience with—a problem-posing approach seems both prudent and productive.       
