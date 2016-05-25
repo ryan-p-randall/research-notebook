@@ -52,9 +52,13 @@ Maybe I need to use Rancière in this one, to talk about how democracy involves 
 
 {==slide 1: name, title, affiliation?==}
 
-Today I'll be circling around the ideas of democracy, agency, and identities—in particular, how these intersect with library discourse around works of fiction, not just the non-fiction resources that we normally tout as our contributions to democracy and patron agency. It'll be a somewhat expanded definition of agency—one that acknowledges how our individual selves are embedded within larger structures of power. 
+Today I'll be circling around the ideas of democracy, agency, and identities—in particular, how these intersect with library discourse around works of fiction, not just the non-fiction resources that we normally tout as our contributions to democracy and patron agency. It'll be a somewhat expanded definition of agency—one that acknowledges how our individual selves are embedded within larger structures of power. In this presentation, I'm basically proposing two interventions. One involves expanding the library discourse around our contributions to democracy and society, or how we as a profession envision how what we do intervenes in the larger world. The other intervention is perhaps more pragmatic, and involves how librarians approach displays, programming, or outreach.   
 
-The article that profoundly helped frame the problem for me is Wayne Wiegand's 2003 "To Reposition a Research Agenda: What American Studies can Teach the LIS Community about the Library in the Life of the User." As the title implies, his article suggests that librarian and information studies too often limits its object of study to user behavior in the life of the library, when it might be more productive to instead start with the user's larger frame of reference.   
+
+
+- Anthrogogy, or adult education, not really pedagogy or child education.  
+
+An article that profoundly helped frame the problem for me is Wayne Wiegand's 2003 "To Reposition a Research Agenda: What American Studies can Teach the LIS Community about the Library in the Life of the User." As the title implies, his article suggests that librarian and information studies too often limits its object of study to user behavior in the life of the library, when it might be more productive to instead start with the user's larger frame of reference.   
 
 {++ Add section, with possible quote slide, of bit about next block quote ++}
 
@@ -69,3 +73,9 @@ In Laura Burt's 2009 article "Vivian Harsh, Adult Education, and the Library's R
 Burt's article describes the cultural work done at the Bronzeville library, but doesn't present examples of its content in detail. Of course, what worked in that context would not work in every context. So instead of suggesting that every library mimic the interventions that succeeded under those historical conditions of possibility, let's look at guiding principles that might be able to travel across contexts. Librarians like Maria Accardi, Andrea Baer, James Elmborg, and Barbara Fister have written at length about how the library is a space of learning and pedagogy. Many of these writers invoke critical pedagogy like that developed by Paulo Freire or bell hooks, which is often referred to as "libratory" or "problem-posing" pedagogy.   
 
 A fundamental practice of this style of teaching is that instead of trying to push the truth out at students, a "banking model" in which "learning" mostly consists of amassing these unexamined nuggets of knowledge {==Slide: cartoon 1970s Smaug with jewels?==}, teachers can more productively work with students to address problems together. This works for certain types of content more than for others, of course—if I were to stand up here and talk about highly technical computer programs that require a specific sequence of computer commands, this problem-posing approach would likely miss the mark. But for learners engaging subjects like personal or community identity, ethic studies, issues of social, juridical, or economic oppression, etc.—all of which even young students are likely to have personal experience with—a problem-posing approach seems both prudent and productive.       
+
+Things to add:  
+
+
+- Maybe mention that Wyoming library that hosted a talk about Islam as a more recent example, in addition to the historical one of Bronzeville's library?  
+- Perhaps briefly mention Radway & Anderson, since I'm much more relying on Wiegand & Giroux here (also: explicitly refer to Giroux!)   
