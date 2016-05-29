@@ -10,20 +10,18 @@ image:
    feature: pocket-notebooks.jpg
    thumb: pocket-notebooks-crop.jpg
 ---
-
-
 <!-- 
 
-Title & Abstract:  
-
-> Productive Interpretations: Encouraging Patron Agency through Cultural Criticism  
-
-> This paper builds on work by scholars such as Janice Radway, Benedict Anderson, Wayne Wiegand, and Henry A. Giroux to show how librarians can productively turn to cultural criticism to better comprehend how patrons exert agency within democratic societies. The paper will suggest modes of engagement with faculty students and outreach that encourage investigations of agency, power, subject positions through encouraging patrons’ processes of producing identities and subject positions.  This encouragement of accounting for patrons’ productive interpretive processes allows LIS to recognize a fuller range of the types of agency we support, as well as assist patrons in furthering their critical engagement with relations of power within and beyond library doors.  
-
-Outline (~20 min total):  
+Outline (Aim for ~18 min total):  
  
-- [ ] Introduction (2-4 minutes?; overview of what I'll discuss, probably ties to other work so far at conference)  
-   - [ ] Probably bring Wiegand into the mix early, either via "To Reposition a Research Agenda: What American Studies Can Teach the LIS Community about the Library in the Life of the User" or something similar?  
+- [ ] Introduction (4 minutes?; overview of what I'll discuss, probably ties to other work so far at conference)  
+- [ ] cultural studies understanding of agency and cultural criticism  
+   - [ ] agency  
+   - [ ] cultural criticism  
+- [ ] common discussion of what libraries contribute to agency: instrumentalized knowledge  
+   - [ ] Buschman  
+   - [ ] Wiegand via "To Reposition a Research Agenda: What American Studies Can Teach the LIS Community about the Library in the Life of the User"   
+- [ ] 
 - [ ] Present the account of "agency" that I'm working from (7 minutes?)  
    - [ ] Idea of agonistic democracy via Laclau & Mouffe and/or Grossberg   
    - [ ] Account of agency and productivity of subject / identity   
@@ -63,14 +61,15 @@ Target word count:
 
 As you know, CAPAL16's theme this year is "Beyond the Library," a chance to situate the discourse of academic librarianship more clearly amid agency, practice, and society. I work in Idaho as an Instruction & Outreach Librarian at a community college. Although I think there are components of education in all aspects of libraries, being an instruction librarian means that I do some of the more overtly academic functions at a library that blurs boundaries between public and academic libraries. So it feels fitting that while preparing today's talk, I've ended up somewhat deemphasizing the thinkers mentioned in the abstract and will spend a bit more time presenting concrete examples from public libraries, examples of what I think libraries can do to discuss or promote patron agency. As we're looking "beyond the library," I want to focus not on academic institutions as the next adjacent frame. Instead, I'm asking us to look at a much larger socio-historical context for how patrons engage with resources libraries provide. Examining this type of context and its local variations in depth would, of course, take far longer than a single presentation allows, so I'll be making some broad gestures rather than truly refined and nuanced delineations.  
 
+{==slide 2: fragments for the overview?==}
+
 In order to do this, I'll present a quick overview of a cultural studies understanding of agency and of cultural criticism, then briefly remind us how this cultural studies approach helps us go beyond the most common ways that library & information studies describes our contributions to patron agency. Finally, I'll talk about those concrete public library examples and suggest how they can guide what we might do in academic libraries as well.  
 
 {==stuff from other app, figure out where to put it all==}   
 
-
 A cultural studies understanding of agency—exemplified by Lawrence Grossberg—views agency not just as individual capacity to act, but expands this conventional and somewhat narrow definition to include an understanding of how powers and potential paths are arranged. Instead of agency meaning individual capacity to move and choice of how to move, this would mean also establishing a good mental map of the peculiarities of the terrain and whether there are obstacles or easier paths. 
 
-At least since Raymond Williams, we've known that "culture" is a contested term that sometimes means elite art or literature. For its part, cultural studies is far more interested in cultural practices than elite connoisseurship. So in advocating for cultural criticism as a way to promote patron agency, I mean that we can refine ways to help patrons consider cultural practices, not attempt to start discussions over which books or films belong in a canon.  
+Since at least Raymond Williams, we've known that "culture" is a contested term that sometimes means elite art or literature. For its part, cultural studies is far more interested in cultural practices than elite connoisseurship. So in advocating for cultural criticism as a way to promote patron agency, I mean that we can refine ways to help patrons consider cultural practices, not attempt to start discussions over which books or films belong in a canon.  
 
 Radway provides an example of focusing on something very far from instrumentalized knowledge. This "reader response" criticism is an approach that looks at how people use what they read. In the case of her 1984 _Reading the Romance_, this means looking at what patrons do with popular, even avowedly "trashy," romance novels. How do readers use pocket paperbacks to structure the rhythm of their day? What meanings they make out of representations that might not initially seem very empowering? I'll admit that under the banner of "cultural studies" people who can sometimes be too quick to ascribe purportedly empowering ways of reading or with other modes of representation. But these occasional interpretive excesses shouldn't disqualify the impetus for asking people to consider why they enjoy what they enjoy, or discarding     
 
