@@ -11,43 +11,6 @@ image:
    thumb: pocket-notebooks-crop.jpg
 ---
 <!-- 
-
-Outline (Aim for ~18 min total):  
- 
-- [ ] Introduction (4 minutes?; overview of what I'll discuss, probably ties to other work so far at conference)  
-- [ ] cultural studies understanding of agency and cultural criticism  
-   - [ ] agency  
-   - [ ] cultural criticism  
-- [ ] common discussion of what libraries contribute to agency: instrumentalized knowledge  
-   - [ ] Buschman  
-   - [ ] Wiegand via "To Reposition a Research Agenda: What American Studies Can Teach the LIS Community about the Library in the Life of the User"   
-- [ ] 
-- [ ] Present the account of "agency" that I'm working from (7 minutes?)  
-   - [ ] Idea of agonistic democracy via Laclau & Mouffe and/or Grossberg   
-   - [ ] Account of agency and productivity of subject / identity   
-- [ ] Discuss how cultural criticism encourages this sort of agency  
-   - [ ] Allows production of the self  
-   - [ ] Encourages reflection about larger tendencies / agents within society, how self intersects with those (i.e. agency in Grossberg's account)   
-   - [ ] Give examples of Radway, Anderson, Wiegand, Giroux?  
-   - [ ] Give example of Samuel Delany?  
-- [ ] Cite Burt, Laura. "Vivian Harsh, Adult Education, and the Library's Role as Community Center" as precedent example of how this type of agency has been done within libraries? Perhaps offer this as a counterexample of public space to Habermasian "rationalized discourse in the public sphere," with "community center" form instead focusing on debate (yes, involving logic!) whose role is acknowledged in part as a production of identity. To reiterate, I'm not saying that the community center foregoes rational debate, much less that any given set of library patrons aren't capable of rational discourse. Instead, I'm saying that their debate is not a way of rationalizing away their social identities, but instead part and parcel of forging said identities within larger social discourses.      
-
-That's an awful lot, dude. So maybe decide which parts would be harder to follow aloud & therefore better held off into the proceedings paper? Focus on Giroux & Wiegand (closer to LIS / CAPAL) and bring in Radway?   
-
-
-Keywords I'll circle around:  
-
-- democracy  
-- agency  
-- identity  
-- libraries  
-- fiction  
-
-Maybe I need to use Rancière in this one, to talk about how democracy involves conflict over identities & who "counts" in a decision.  
-
-- maybe use Just Seeds image of books & pathways for agency?  
-- maybe use gif of turtles from _Finding Nemo_ for agency?  
-
 Target word count:   
 
 250 words per page, 7-8 pages for 15-20 minutes;  
@@ -65,14 +28,15 @@ As you know, CAPAL16's theme this year is "Beyond the Library," a chance to situ
 
 In order to do this, I'll present a quick overview of a cultural studies understanding of agency and of cultural criticism, then briefly remind us how this cultural studies approach helps us go beyond the most common ways that library & information studies describes our contributions to patron agency. Finally, I'll talk about those concrete public library examples and suggest how they can guide what we might do in academic libraries as well.  
 
-{==stuff from other app, figure out where to put it all==}   
+{==slide 3: cultural studies==}   
 
-A cultural studies understanding of agency—exemplified by Lawrence Grossberg—views agency not just as individual capacity to act, but expands this conventional and somewhat narrow definition to include an understanding of how powers and potential paths are arranged. Instead of agency meaning individual capacity to move and choice of how to move, this would mean also establishing a good mental map of the peculiarities of the terrain and whether there are obstacles or easier paths. 
+A cultural studies understanding of agency—exemplified by Lawrence Grossberg—views agency not just as individual person's capacity to act. Instead, agency expands this conventional and somewhat narrow definition to include an understanding of how powers and potential paths are arranged. Throughout the essays collected in his 1997 _Bringing It All Back Home_ he refers to this spatial conception of agency as "mattering maps," or an awareness of how individual or collective "empowerment is enabled at particular sites and along particular vectors" (367). The potential for empowerment and change is not equally distributed, in other words. Instead of agency meaning a flattened, individualized capacity to decide and to move that is universally applicable to everyone, this view recognizes that there are differences in subject positions and individual talents.   
 
-Since at least Raymond Williams, we've known that "culture" is a contested term that sometimes means elite art or literature. For its part, cultural studies is far more interested in cultural practices than elite connoisseurship. So in advocating for cultural criticism as a way to promote patron agency, I mean that we can refine ways to help patrons consider cultural practices, not attempt to start discussions over which books or films belong in a canon.  
+A first step for a person to gain agency might be to recognize the peculiarities of the terrain and where there are obstacles, easier paths, or places where there are greater potentials for change. And perhaps, another step toward making this distribution of potential more equitable to different subject positions might be realizing that there are indeed differences. These initial steps are where I believe cultural criticism can come in.  
 
-Radway provides an example of focusing on something very far from instrumentalized knowledge. This "reader response" criticism is an approach that looks at how people use what they read. In the case of her 1984 _Reading the Romance_, this means looking at what patrons do with popular, even avowedly "trashy," romance novels. How do readers use pocket paperbacks to structure the rhythm of their day? What meanings they make out of representations that might not initially seem very empowering? I'll admit that under the banner of "cultural studies" people who can sometimes be too quick to ascribe purportedly empowering ways of reading or with other modes of representation. But these occasional interpretive excesses shouldn't disqualify the impetus for asking people to consider why they enjoy what they enjoy, or discarding     
+Since at least Raymond Williams, we've known that "culture" is a contested term that sometimes means elite art or literature and sometimes means something more anthropological. For its part, cultural studies is far more interested in social and cultural practices than elite connoisseurship. So in advocating for cultural criticism as a way to promote patron agency, I mean that we can refine ways to help patrons consider a wide variety of social and cultural practices, not attempt to start debates over which books or films belong in a canon.   
 
+Janice Radway provides an example of focusing on cultural practices. The type of "reader response" criticism she pursues looks at how people use the genre fiction that they read. In the case of her 1984 _Reading the Romance_, this means looking at what patrons do with popular, even avowedly "trashy," romance novels. How do readers use pocket paperbacks to structure the rhythm of their day, perhaps reading on their lunch break or on the bus? What meanings do they make out of representations that might not initially seem very empowering? She concludes that although the protagonists of many of these romance novels aren't always laudable female representation, nor do the novels aspire to be more literary than genre fiction. However, the readers she interviews observe how these fictional characters contend with and create space for themselves in often highly patriarchal novelistic worlds and perhaps take lessons or at least inspiration from these characters' choices.   
 
 ### Section: Standard Library Discourse & Its Shortcomings around Democracy  
 
@@ -126,11 +90,6 @@ Things to add:
 - Perhaps briefly mention Radway & Anderson, since I'm much more relying on Wiegand & Giroux here (also: explicitly refer to Giroux!)   
 - Maybe mention Buschman and how he deals with democracy / education?  
 - WHICH GIROUX? Probably "Schooling and the Culture of Positivism" (and add that Giroux here is not dismissing positivism entirely, but rather a cultural in which aspects of positivism are mistaken for the entirety of ?ethics?, an initially modest method run rampant across a different system of determining values)  
-
-Unrelated:  
-
-- [ ] maybe suggest that Critic Markup people add Minimal Syntax and Minimal Syntax Dark to their [Third-Party Tools list](http://criticmarkup.com/tool-list.php)?  
-
 
 ## Newest Version Roadmap   
 
