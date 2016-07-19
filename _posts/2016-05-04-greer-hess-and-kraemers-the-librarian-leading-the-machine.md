@@ -13,7 +13,7 @@ date: 2016-05-04T00:10:25-06:00
 ---
 Link (Open Access) :  
 [WorldCat](http://www.worldcat.org/oclc/6032308716) / [College & Research Libraries](
-http://crl.acrl.org/content/77/3/286)
+http://crl.acrl.org/content/77/3/286) <i class="ai ai-open-access"></i>  
 
 > This study specifically considers whether online information literacy instruction in an otherwise face-to-face course is effective in helping students achieve desired learning outcomes. (p. 286)  
 
