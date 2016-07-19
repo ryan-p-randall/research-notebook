@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Greer, Hess, and Kraemer. &ldquo;The Librarian Leading the Machine: a Reassessment of Library Instruction Methods.&rdquo; 2016. <i class="ai ai-open-access"></i>"
+title: "Greer, Hess, and Kraemer. &ldquo;The Librarian Leading the Machine: a Reassessment of Library Instruction Methods.&rdquo; 2016." <i class="ai ai-open-access"></i>
 modified:
 categories: 
-excerpt: An insightful article showing that, at their institution, well-planned infolit instruction modules make for basically equivalent student success rates.
+excerpt: An insightful article showing that, at their institution, well-planned infolit instruction modules make for basically equivalent student success rates. <i class="ai ai-open-access"></i>
 tags: [information literacy, assessment, open access content]
 image:
    feature: pocket-notebooks.jpg
