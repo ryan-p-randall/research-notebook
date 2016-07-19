@@ -3,7 +3,7 @@ layout: post
 title: "Greer, Hess, and Kraemer. &ldquo;The Librarian Leading the Machine: a Reassessment of Library Instruction Methods.&rdquo; 2016."
 modified:
 categories: 
-excerpt: An insightful article showing that, at their institution, well-planned infolit instruction modules make for basically equivalent student success rates.
+excerpt: An insightful <i class="ai ai-open-access"></i> article showing that, at their institution, well-planned infolit instruction modules make for basically equivalent student success rates.
 tags: [information literacy, assessment, open access content]
 image:
    feature: pocket-notebooks.jpg
@@ -11,9 +11,9 @@ image:
 published: true
 date: 2016-05-04T00:10:25-06:00
 ---
-Link (Open Access) :  
+Link (<i class="ai ai-open-access"></i> Open Access) :  
 [WorldCat](http://www.worldcat.org/oclc/6032308716) / [College & Research Libraries](
-http://crl.acrl.org/content/77/3/286) <i class="ai ai-open-access"></i>  
+http://crl.acrl.org/content/77/3/286)   
 
 > This study specifically considers whether online information literacy instruction in an otherwise face-to-face course is effective in helping students achieve desired learning outcomes. (p. 286)  
 
