@@ -277,7 +277,7 @@ $button-size: 1.5rem;
 			}
 		}
 		p {
-			@include font-rem(16);
+			@include font-rem(18);
 		}
 		p+p {
 			text-indent: 0;
@@ -336,7 +336,7 @@ $button-size: 1.5rem;
 /* Post byline */
 .byline {
 	clear: both;
-	font-size: 80%;
+	font-size: 95%;
 }
 .article-author-side,
 .article-author-bottom {
@@ -344,7 +344,7 @@ $button-size: 1.5rem;
 		margin-bottom: 0;
 	}
 	p {
-		font-size: 80%;
+		font-size: 95%;
 		font-style: italic;
 	}
 	a, a:hover {
@@ -631,7 +631,6 @@ $button-size: 1.5rem;
 	}
 }
 
-
 /* Footer wrapper */
 .footer-wrap {
 	@include container;
@@ -646,7 +645,7 @@ $button-size: 1.5rem;
 	h5,
 	h6,
 	span {
-		@include font-rem(14);
+		@include font-rem(16);
 	}
 	footer {
 		@include grid(12,10);
